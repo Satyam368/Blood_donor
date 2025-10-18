@@ -1,0 +1,1 @@
+Developed a web application that enables users to search for blood donors by blood type, city, or area. The system leverages backend-stored donor data to efficiently connect those in need with willing donors.
